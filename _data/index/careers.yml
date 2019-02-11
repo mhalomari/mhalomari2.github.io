@@ -1,29 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: University of Liverpool, Liverpool, UK
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Senior KTP Associate
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: June 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Postdoctoral Research Associate
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: My Home Move Ltd, Leicester, UK
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Project Manager, IT internal Developments
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: AI & ML Specialist
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: Applied Science Private University
+    i18n: company_b
+  desc:
+    detail: Dean of Engineering
+    i18n: company_b_desc
+  date:
+    detail: Sep 2015 - Sep 2017
+    i18n: company_b_date
+  job:
+    detail: Associate Professor of Electrical Engineering
+    i18n: company_b_job
+  icon: fa-plus-square
+  #icon: fa-plus-square
