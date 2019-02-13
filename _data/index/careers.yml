@@ -26,7 +26,7 @@
   job:
     detail: AI & ML Specialist
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-building
 
 - name:
     detail: Applied Science Private University, Amman, Jordan
@@ -40,5 +40,5 @@
   job:
     detail: Associate Professor of Electrical Engineering
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-university
   #icon: fa-plus-square
