@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Motivation, Teaching, MATLAB, Machine Learing, Python, Management, Sleeping
-percentage: 50, 75, 95, 80, 70, 80, 90, 20
+aspects: GitHub, Motivation, Teaching, MATLAB, Machine Learing, NLP, Python, Management, Leadership, Sleeping
+percentage: 50, 75, 95, 80, 70, 40, 80, 90, 80, 20
