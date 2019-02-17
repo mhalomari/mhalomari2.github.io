@@ -29,6 +29,37 @@
   icon: fa-building
 
 - name:
+    detail: University of Liverpool, Liverpool, UK
+    i18n: company_a
+  desc:
+    detail: Visiting Research Fellow
+    i18n: company_a_desc
+  date:
+    detail: Dec 2017 - June 2018
+    i18n: company_a_date
+  job:
+    detail: Electrical and Electronics Engineering
+    i18n: company_a_job
+  icon: fa-university
+
+# test
+- name:
+    detail: Applied Science Private University, Amman, Jordan
+    i18n: company_b
+  desc:
+    detail: Associate Professor (Sr. Lecturer)
+    i18n: company_b_desc
+  date:
+    detail: Oct 2014 - Sep 2018
+    i18n: company_b_date
+  job:
+    detail: Associate Professor of Electrical Engineering
+    i18n: company_b_job
+  icon: fa-university
+
+  #
+
+- name:
     detail: Applied Science Private University, Amman, Jordan
     i18n: company_b
   desc:
@@ -42,3 +73,4 @@
     i18n: company_b_job
   icon: fa-university
   #icon: fa-plus-square
+
