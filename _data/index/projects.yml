@@ -17,8 +17,7 @@
   i18n: cvsp
   url: https://www.liverpool.ac.uk/psychology-health-and-society/departments/health-services-research/research/vision/video-resources/
   img: /static/assets/img/landing/eye.jpg
-  desc: "Recently co-supervising a PhD candidate: [Ola Younis](https://pcwww.liv.ac.uk/~younis/). Several projects including: Computer Vision and Image Processing, Machine Learning Applications and Algorithms, Multimedia Systems and Digital Signal Processing, 
-  Brain-Computer Interface and EEG Signal Analysis, and RFID Applications and Antenna Design. [More info](https://www.liverpool.ac.uk/computer-science/staff/mohammad-alomari/publications/)"
+  desc: Recently co-supervising a PhD candidate, [Ola Younis](https://pcwww.liv.ac.uk/~younis/). Several projects including Computer Vision and Image Processing, Machine Learning Applications and Algorithms, Multimedia Systems and Digital Signal Processing, Brain-Computer Interface and EEG Signal Analysis, and RFID Applications and Antenna Design. [More info](https://www.liverpool.ac.uk/computer-science/staff/mohammad-alomari/publications/)
 
 - name: Real-Time Solar Photovoltaic Power Forecasting
   i18n: rtpv
