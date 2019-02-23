@@ -1,21 +1,34 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Knowledge Transfer Partnership with My Home Move ltd
+  i18n: MHM
+  url: https://www.gov.uk/government/organisations/innovate-uk
+  img: /static/assets/img/landing/mhm.jpg
+  desc: I work as the project manager for an Innovate UK funded project.
+
 - name: Space Weather and Solar Physics
   i18n: asap
   url: http://spaceweather.inf.brad.ac.uk/
   img: /static/assets/img/landing/ASAP2.png
   desc: I am a member of the Space Weather Research Group at the University of Bradford, UK. We are involved in research projects for processing multi-wavelength solar images and developing automated solar imaging algorithms, solar data mining, extracting knowledge from solar archives using machine learning and the development of space weather prediction technologies.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Computer Vision and Signal Processing
+  i18n: cvsp
+  url: https://www.liverpool.ac.uk/psychology-health-and-society/departments/health-services-research/research/vision/video-resources/
+  img: /static/assets/img/landing/eye.jpg
+  desc: "Recently co-supervising a PhD candidate: Ola Younis. Several projects including: Computer Vision and Image Processing, Machine Learning Applications and Algorithms, Multimedia Systems and Digital Signal Processing, 
+  Brain-Computer Interface and EEG Signal Analysis, and RFID Applications and Antenna Design."
 
 - name: Real-Time Solar Photovoltaic Power Forecasting
   i18n: rtpv
   url: http://energy.asu.edu.jo/
   img: /static/assets/img/landing/REC.png
   desc: I was working as the director of the Renewable Energy Center at Applied Science Private University, Amman, Jordan. We are involved in research projects for analysing solar photovoltaic data and weather station measurements for the purpose of real-time solar energy predictions.
+
+#- name: Python
+#  i18n: cpython
+#  gh_user: python
+#  repo: cpython
+#  img: /static/assets/img/landing/python.png
+#  desc: This project is other's project. I use another request to get repo's information.
