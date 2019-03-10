@@ -11,21 +11,21 @@ icon: fa-car
 
 Based on my personal experince, I would recommend buying a car from:
 
-** RAC Approved Dealers: **
+# RAC Approved Dealers:
 <https://www.rac.co.uk/route-planner/maps/approveddealerwidget/>
 
 <img src="{{ site.img_path }}/uk/rac.jpg" width="50%">
 
 Every car purchased from RAC Approved Dealers comes with the following:
 
-1. A certificate confirming the vehicle has passed the RAC 82 point Approved Vehicle Preparation Standard
-2. A Car Data Check
-3. A minimum of 3 months RAC Warranty
-4. 12 months RAC Breakdown Cover (Roadside, Recovery, At Home)
-5. RAC Accident Care (for the duration of your breakdown cover)
+* A certificate confirming the vehicle has passed the RAC 82 point Approved Vehicle Preparation Standard
+* A Car Data Check
+* A minimum of 3 months RAC Warranty
+* 12 months RAC Breakdown Cover (Roadside, Recovery, At Home)
+* RAC Accident Care (for the duration of your breakdown cover)
 
 
-** AA Approved Dealers: **
+# AA Approved Dealers: 
 <https://www.theaa.com/used-cars/displaycars?approved_dealer=1>
 
 <img src="{{ site.img_path }}/uk/aa.jpg" width="50%">
@@ -44,7 +44,7 @@ With AA, What are the promises? The dealer will......
 * All vehicles advertised on aacars.com come with 12 months free breakdown cover, make sure you get covered
 
 
-** Arnold Clark: ** <https://www.arnoldclark.com/>
+# Arnold Clark: <https://www.arnoldclark.com/>
 
 <img src="{{ site.img_path }}/uk/ac.jpg" width="50%">
 
