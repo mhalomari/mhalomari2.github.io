@@ -44,7 +44,8 @@ With AA, What are the promises? The dealer will......
 * All vehicles advertised on aacars.com come with 12 months free breakdown cover, make sure you get covered
 
 
-# Arnold Clark: <https://www.arnoldclark.com/>
+# Arnold Clark:
+<https://www.arnoldclark.com/>
 
 <img src="{{ site.img_path }}/uk/ac.jpg" width="50%">
 
