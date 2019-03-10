@@ -9,15 +9,18 @@ tags: [car,buy,uk,سيارة,شراء]
 icon: fa-car
 ---
 
+😊😊😊😊
 
 RAC Approved Dealers
 <https://www.rac.co.uk/route-planner/maps/approveddealerwidget/>
 
+<img src="{{ site.img_path }}/uk/rac.jpg" width="75%">
+
 AA Approved Dealers
 <https://www.theaa.com/used-cars/displaycars?approved_dealer=1>
 
+<img src="{{ site.img_path }}/uk/aa.jpg" width="75%">
+
 [Arnold Clark](https://www.arnoldclark.com/)
 
-	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
-	<img src="{{ site.img_path }}/3steps/edit.gif" width="75%">
-😊
+<img src="{{ site.img_path }}/uk/ac.jpg" width="75%">
